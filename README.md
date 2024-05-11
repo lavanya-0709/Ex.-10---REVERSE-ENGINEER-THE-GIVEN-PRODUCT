@@ -1,6 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
-
-### DATE: 
+# Ex.10   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +29,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/lavanya-0709/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/152274078/e15181f5-57b9-45ca-ab3c-5043aea071c3)
 
 ### Output:
+![image](https://github.com/lavanya-0709/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/152274078/15cad23f-f49c-408c-ad59-8249d7d82b1e)
 
 
-### Name:
-### Register Number:
+### Name:LAVANYA S
+### Register Number:212223230112
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
